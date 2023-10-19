@@ -26,8 +26,8 @@
 body, html {
     margin: 0;
     padding: 10px;
-    background: var(--background);
-    color: var(--text);
+    background: blue;
+    color: black;
     font-family: var(--fantasy);
 }
 
